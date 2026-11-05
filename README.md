@@ -1,4 +1,4 @@
 # Git-Demo
 A demonstration of Git and GitHub
 This is my Git and GitHub
-This is my Github branch demo
+This is my GitHub demo
